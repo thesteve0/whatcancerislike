@@ -7,15 +7,16 @@ So here it is, my attempt to build that site. I am doing it as part of my work a
 
 Here is the general outline of the application
 
-1) Main page with some recent videos
-2) Main Page search that allows you to find based on condition and treatments
-3) Not sure if I should allow people to connect together on my site - might be nicer than the video site
-4) Log in to add video through Google and Vimeo 
-5) Comments managed through disqus or some other system
+* Main page with some recent videos
+* Main Page search that allows you to find based on condition and treatments
+* Not sure if I should allow people to connect together on my site - might be nicer than the video site
+* Log in to add video through Google and Vimeo 
+* Comments managed through disqus or some other system
 
 Infrastructure
-1) Django
-2) Postgresql
-3) HTML5 Boilerplate
-4) Disqus for comments or something similar
-5) Angular?
+
+* Django
+* Postgresql
+* HTML5 Boilerplate
+* Disqus for comments or something similar
+* Angular?
