@@ -1,5 +1,5 @@
-Welcome
-=======
+= Welcome
+
 
 The _What is Cancer Like_ project grew out of my experience with Lymphoma. I remember during the time between diagnosis and the beginning of chemo, then during chemo, and when the treatment was done and the next phase began, I had a lot of uncertainty about what was going to happen. What was it going to be like? It would have been great if there was a site with people talking about what was coming up for me.
 
@@ -7,16 +7,16 @@ So here it is, my attempt to build that site. I am doing it as part of my work a
 
 Here is the general outline of the application
 
-* Main page with some recent videos
-* Main Page search that allows you to find based on condition and treatments
-* Not sure if I should allow people to connect together on my site - might be nicer than the video site
-* Log in to add video through Google and Vimeo 
-* Comments managed through disqus or some other system
+. Main page with some recent videos
+. Main Page search that allows you to find based on condition and treatments
+. Not sure if I should allow people to connect together on my site - might be nicer than the video site
+. Log in to add video through Google and Vimeo 
+. Comments managed through disqus or some other system
 
 Infrastructure
 
-* Django
-* Postgresql
-* HTML5 Boilerplate
-* Disqus for comments or something similar
-* Angular?
+. Django
+. Postgresql
+. HTML5 Boilerplate
+. Disqus for comments or something similar
+. Angular?
